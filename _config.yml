@@ -3,9 +3,3 @@ description: Institute for Digital Technologies, Loughborough University London,
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-
-```yml
-  github:
-  zip_url: https://fanyi.baidu.com/
-  another_url: another value
-```
